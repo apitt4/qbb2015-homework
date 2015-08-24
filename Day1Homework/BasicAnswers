@@ -1,0 +1,21 @@
+Question 1:
+Stringtie output downloaded 
+
+Question 2:
+fastqc SRR072893.fastq
+file:///Users/cmdb/qbb2015/rawdata/SRR072893_fastqc.html  
+
+
+Question 3:
+hisat -x BDGP6 -U /Users/cmdb/qbb2015/rawdata/SRR072893.fastq -S Part3.sam
+
+Question 4
+samtools view -bS Part3.sam > Part3.bam
+samtools sort Part3.bam Part3_sorted
+samtools index Part3_sorted.bam
+
+Question 5
+stringtie Part3_sorted.bam -p 4 -e -G BDGP6.Ensembl.81.gtf -o stringtieoutput -B 
+
+Question 6
+Uploaded separately 
