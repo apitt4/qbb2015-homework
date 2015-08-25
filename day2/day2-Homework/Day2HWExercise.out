@@ -1,0 +1,5 @@
+          id chromosome strand    start      end         name exon number  \
+23431  23431          X      -  7084164  7092883  FBtr0331261           6   
+
+      length      gene id gene name         cov        FPKM  
+23431   1515  FBgn0264270       Sxl  101.804230  124.908493  
