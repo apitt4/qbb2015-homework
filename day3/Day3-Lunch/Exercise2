@@ -7,22 +7,22 @@ import numpy as np
 filename = "/Users/cmdb/qbb2015/stringtie/SRR072893/t_data.ctab"
 
 df = pd.read_table("~/qbb2015/stringtie/SRR072893/t_data.ctab")
-FPKM = {}
+"""FPKM = {}
 
-ROI = df["FPKM"] > 0
-print df["FPKM"][ROI]
-df1= df["FPKM"][ROI]
+ROI = df["FPKM"]
+
 for i in df:
     if ROI is true:
-        FPKM{} += 1
+         += 1
      else:
         FPKM{} +=0
-print FPKM
-
-
+print FPKM"""
+roi = df["FPKM"]
+roi2 = roi[roi > 0]
+roi3 = np.log(roi2.values)
 plt.figure()
-plt.hist((x, bins=10, range=None, normed=False, weights=None, cumulative=False, bottom=None, histtype=u'bar', align=u'mid', orientation=u'vertical', rwidth=None, log=False, color=None, label=None, stacked=False, hold=None, **kwargs)
+plt.hist(roi3)
 plt.title("Histogram")
-plt.xlabel("?")
-plt.ylabel("?")
+plt.xlabel("log(FPKM)")
+plt.ylabel("Count")
 plt.savefig("Histogram.png")
