@@ -1,0 +1,29 @@
+#!/usr/bin/env python
+
+import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
+
+
+filename = "/Users/cmdb/qbb2015/stringtie/SRR072893/t_data.ctab"
+
+df = pd.read_table("~/qbb2015/stringtie/SRR072893/t_data.ctab")
+df2 = pd.read_table("~/qbb2015/stringtie/SRR072905/t_data.ctab")
+
+roi1 = df["FPKM"]
+roi2=df2["FPKM"]
+
+NonZero1 = roi1[roi1 > 0]
+NonZero2 = roi2[roi2 > 0]
+
+Log1 = np.log2(NonZero1)
+Log2 = np.log2(NonZero2)
+
+M = Log1 - Log2
+A = 0.5*(Log1) + 0.5*(Log2)
+
+plt.figure()
+plt.scatter(A,M)
+plt.xlabel("A")
+plt.ylabel("M")
+plt.savefig("MA.png")
