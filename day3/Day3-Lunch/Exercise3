@@ -1,0 +1,25 @@
+#!/usr/bin/env python
+
+import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
+
+
+filename = "/Users/cmdb/qbb2015/stringtie/SRR072893/t_data.ctab"
+
+df = pd.read_table("~/qbb2015/stringtie/SRR072893/t_data.ctab")
+
+roi = df["FPKM"]
+roi2 = roi[roi > 0]
+roi3 = np.log(roi2)
+
+
+plt.figure()
+
+roi3.plot(kind="kde")
+plt.title("Density")
+plt.xlabel("log(FPKM)")
+plt.ylabel("Count")
+plt.savefig("KDEplot.png")
+
+
