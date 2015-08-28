@@ -58,15 +58,13 @@ class ChromosomeLocationBitArrays( object ):
             start = 0
             positionbool = False
             for x in self.arrays[chrom]:
-                if [chrom] == "chr3L":
-                    if x == 1:
-                        if not positionbool:
-                            start = counter
-                            positionbool = True
-                    elif x == 0:
-                        if positionbool == True:
-                            positionbool = False
-                            reg.append( (chrom,start,counter-1) )    
-                    counter += 1
-                return reg
-                print
+                if x == 1:
+                    if not positionbool:
+                        start = counter
+                        positionbool = True
+                elif x == 0:
+                    if positionbool == True:
+                        positionbool = False
+                        reg.append( (chrom,start,counter-1) )    
+                counter += 1
+            return reg
