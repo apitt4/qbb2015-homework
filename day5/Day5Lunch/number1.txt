@@ -1,0 +1,2321 @@
+> NM_004140 3
+ Identities = 36/45 (80%)
+ Gaps = 0/45 (0%)
+
+> NM_016260 2
+ Identities = 27/31 (87%)
+ Gaps = 0/31 (0%)
+
+> NM_001079526 1
+ Identities = 27/31 (87%)
+ Gaps = 0/31 (0%)
+
+> NM_005479 3
+ Identities = 26/28 (93%)
+ Gaps = 1/28 (4%)
+
+> NM_001308330 1
+ Identities = 29/35 (83%)
+ Gaps = 0/35 (0%)
+
+> NM_014980 2
+ Identities = 29/35 (83%)
+ Gaps = 0/35 (0%)
+
+> NM_014878 4
+ Identities = 30/35 (86%)
+ Gaps = 1/35 (3%)
+
+> NM_003804 3
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+> NM_001220496 2
+ Identities = 20/20 (100%)
+ Gaps = 0/20 (0%)
+
+> NM_001220494 2
+ Identities = 20/20 (100%)
+ Gaps = 0/20 (0%)
+
+> NM_080661 4
+ Identities = 20/20 (100%)
+ Gaps = 0/20 (0%)
+
+> NM_001145026 1
+ Identities = 31/37 (84%)
+ Gaps = 2/37 (5%)
+
+> NM_001272069 1
+ Identities = 29/34 (85%)
+ Gaps = 2/34 (6%)
+
+> NM_018394 3
+ Identities = 29/34 (85%)
+ Gaps = 2/34 (6%)
+
+> NM_032181 2
+ Identities = 23/25 (92%)
+ Gaps = 0/25 (0%)
+
+> NM_001135032 1
+ Identities = 23/25 (92%)
+ Gaps = 0/25 (0%)
+
+> NR_033870 2
+ Identities = 28/33 (85%)
+ Gaps = 0/33 (0%)
+
+> NR_073571 1
+ Identities = 29/34 (85%)
+ Gaps = 2/34 (6%)
+
+> NR_073570 1
+ Identities = 29/34 (85%)
+ Gaps = 2/34 (6%)
+
+> NM_003608 3
+ Identities = 22/23 (96%)
+ Gaps = 0/23 (0%)
+
+> NM_001009881 2
+ Identities = 24/25 (96%)
+ Gaps = 0/25 (0%)
+
+> NM_015269 2
+ Identities = 24/25 (96%)
+ Gaps = 0/25 (0%)
+
+> NM_012304 4
+ Identities = 24/26 (92%)
+ Gaps = 0/26 (0%)
+
+> NM_001278317 1
+ Identities = 24/26 (92%)
+ Gaps = 0/26 (0%)
+
+> NM_001080419 2
+ Identities = 20/20 (100%)
+ Gaps = 0/20 (0%)
+
+> NM_001353 5
+ Identities = 23/25 (92%)
+ Gaps = 0/25 (0%)
+
+> NM_001354 5
+ Identities = 23/25 (92%)
+ Gaps = 0/25 (0%)
+
+> NM_205845 2
+ Identities = 23/25 (92%)
+ Gaps = 0/25 (0%)
+
+> NM_001135652 2
+ Identities = 43/56 (77%)
+ Gaps = 9/56 (16%)
+
+> NM_002759 3
+ Identities = 43/56 (77%)
+ Gaps = 9/56 (16%)
+
+> NM_001135651 2
+ Identities = 43/56 (77%)
+ Gaps = 9/56 (16%)
+
+> NR_023926 1
+ Identities = 20/20 (100%)
+ Gaps = 0/20 (0%)
+
+> NM_012383 4
+ Identities = 29/35 (83%)
+ Gaps = 0/35 (0%)
+
+> NR_033781 1
+ Identities = 22/23 (96%)
+ Gaps = 0/23 (0%)
+
+> NM_001009881 2
+ Identities = 24/25 (96%)
+ Gaps = 0/25 (0%)
+
+> NM_015269 2
+ Identities = 24/25 (96%)
+ Gaps = 0/25 (0%)
+
+> NM_012304 4
+ Identities = 24/26 (92%)
+ Gaps = 0/26 (0%)
+
+> NM_001278317 1
+ Identities = 24/26 (92%)
+ Gaps = 0/26 (0%)
+
+> NM_001080419 2
+ Identities = 20/20 (100%)
+ Gaps = 0/20 (0%)
+
+> NM_019857 4
+ Identities = 22/23 (96%)
+ Gaps = 0/23 (0%)
+
+> NM_175859 2
+ Identities = 22/23 (96%)
+ Gaps = 0/23 (0%)
+
+> NM_001144002 1
+ Identities = 22/23 (96%)
+ Gaps = 0/23 (0%)
+
+> NM_001353 5
+ Identities = 23/25 (92%)
+ Gaps = 0/25 (0%)
+
+> NM_001354 5
+ Identities = 23/25 (92%)
+ Gaps = 0/25 (0%)
+
+> NM_205845 2
+ Identities = 23/25 (92%)
+ Gaps = 0/25 (0%)
+
+> NM_001135652 2
+ Identities = 43/56 (77%)
+ Gaps = 9/56 (16%)
+
+> NM_002759 3
+ Identities = 43/56 (77%)
+ Gaps = 9/56 (16%)
+
+> NM_001135651 2
+ Identities = 43/56 (77%)
+ Gaps = 9/56 (16%)
+
+> NR_023926 1
+ Identities = 20/20 (100%)
+ Gaps = 0/20 (0%)
+
+> NM_012383 4
+ Identities = 29/35 (83%)
+ Gaps = 0/35 (0%)
+
+> NR_033781 1
+ Identities = 22/23 (96%)
+ Gaps = 0/23 (0%)
+
+> NM_001101417 3
+ Identities = 27/29 (93%)
+ Gaps = 0/29 (0%)
+
+ Identities = 26/30 (87%)
+ Gaps = 0/30 (0%)
+
+ Identities = 29/34 (85%)
+ Gaps = 2/34 (6%)
+
+ Identities = 25/29 (86%)
+ Gaps = 0/29 (0%)
+
+ Identities = 31/38 (82%)
+ Gaps = 2/38 (5%)
+
+> NM_001101426 3
+ Identities = 27/29 (93%)
+ Gaps = 0/29 (0%)
+
+ Identities = 26/30 (87%)
+ Gaps = 0/30 (0%)
+
+ Identities = 29/34 (85%)
+ Gaps = 2/34 (6%)
+
+ Identities = 25/29 (86%)
+ Gaps = 0/29 (0%)
+
+ Identities = 31/38 (82%)
+ Gaps = 2/38 (5%)
+
+> NM_080817 4
+ Identities = 33/39 (85%)
+ Gaps = 0/39 (0%)
+
+ Identities = 30/36 (83%)
+ Gaps = 0/36 (0%)
+
+> NM_001242503 1
+ Identities = 36/44 (82%)
+ Gaps = 0/44 (0%)
+
+> NM_001242502 1
+ Identities = 36/44 (82%)
+ Gaps = 0/44 (0%)
+
+> NM_013989 4
+ Identities = 36/44 (82%)
+ Gaps = 0/44 (0%)
+
+> NM_001007023 3
+ Identities = 36/44 (82%)
+ Gaps = 0/44 (0%)
+
+> NM_000793 5
+ Identities = 36/44 (82%)
+ Gaps = 0/44 (0%)
+
+> NM_001080419 2
+ Identities = 31/36 (86%)
+ Gaps = 0/36 (0%)
+
+ Identities = 29/35 (83%)
+ Gaps = 0/35 (0%)
+
+ Identities = 29/35 (83%)
+ Gaps = 0/35 (0%)
+
+> NM_001282807 1
+ Identities = 26/28 (93%)
+ Gaps = 0/28 (0%)
+
+> NM_001282806 1
+ Identities = 26/28 (93%)
+ Gaps = 0/28 (0%)
+
+> NM_022826 3
+ Identities = 26/28 (93%)
+ Gaps = 0/28 (0%)
+
+> NM_001282805 1
+ Identities = 26/28 (93%)
+ Gaps = 0/28 (0%)
+
+> NR_037771 1
+ Identities = 31/36 (86%)
+ Gaps = 0/36 (0%)
+
+> NM_003677 4
+ Identities = 28/31 (90%)
+ Gaps = 0/31 (0%)
+
+ Identities = 30/35 (86%)
+ Gaps = 0/35 (0%)
+
+ Identities = 32/39 (82%)
+ Gaps = 2/39 (5%)
+
+> NM_007190 3
+ Identities = 31/36 (86%)
+ Gaps = 0/36 (0%)
+
+> NM_001018088 2
+ Identities = 29/32 (91%)
+ Gaps = 1/32 (3%)
+
+> NM_018080 3
+ Identities = 29/32 (91%)
+ Gaps = 1/32 (3%)
+
+> NM_207371 3
+ Identities = 22/22 (100%)
+ Gaps = 0/22 (0%)
+
+> NM_001242466 1
+ Identities = 30/35 (86%)
+ Gaps = 0/35 (0%)
+
+> NM_181504 3
+ Identities = 30/35 (86%)
+ Gaps = 0/35 (0%)
+
+> NM_181524 1
+ Identities = 30/35 (86%)
+ Gaps = 0/35 (0%)
+
+> NM_181523 2
+ Identities = 30/35 (86%)
+ Gaps = 0/35 (0%)
+
+> NR_104109 1
+ Identities = 27/31 (87%)
+ Gaps = 0/31 (0%)
+
+> NM_001277176 1
+ Identities = 29/34 (85%)
+ Gaps = 0/34 (0%)
+
+> NM_182758 3
+ Identities = 29/34 (85%)
+ Gaps = 0/34 (0%)
+
+> NM_001287044 1
+ Identities = 35/43 (81%)
+ Gaps = 1/43 (2%)
+
+> NM_153711 2
+ Identities = 27/30 (90%)
+ Gaps = 2/30 (7%)
+
+> NM_001282224 1
+ Identities = 27/31 (87%)
+ Gaps = 0/31 (0%)
+
+> NM_000052 6
+ Identities = 27/31 (87%)
+ Gaps = 0/31 (0%)
+
+> NM_207359 2
+ Identities = 27/31 (87%)
+ Gaps = 0/31 (0%)
+
+ Identities = 27/31 (87%)
+ Gaps = 0/31 (0%)
+
+> NM_001199563 1
+ Identities = 26/29 (90%)
+ Gaps = 0/29 (0%)
+
+ Identities = 31/39 (79%)
+ Gaps = 0/39 (0%)
+
+> NM_007073 4
+ Identities = 26/29 (90%)
+ Gaps = 0/29 (0%)
+
+ Identities = 31/39 (79%)
+ Gaps = 0/39 (0%)
+
+> NM_147147 3
+ Identities = 26/29 (90%)
+ Gaps = 0/29 (0%)
+
+ Identities = 31/39 (79%)
+ Gaps = 0/39 (0%)
+
+> NM_182920 1
+ Identities = 27/31 (87%)
+ Gaps = 0/31 (0%)
+
+> NM_001204385 1
+ Identities = 35/43 (81%)
+ Gaps = 1/43 (2%)
+
+> NM_001204384 1
+ Identities = 35/43 (81%)
+ Gaps = 1/43 (2%)
+
+> NR_038445 1
+ Identities = 30/35 (86%)
+ Gaps = 2/35 (6%)
+
+> NR_110323 1
+ Identities = 24/26 (92%)
+ Gaps = 0/26 (0%)
+
+> NR_102336 1
+ Identities = 29/34 (85%)
+ Gaps = 0/34 (0%)
+
+> NR_102335 1
+ Identities = 29/34 (85%)
+ Gaps = 0/34 (0%)
+
+> NR_102334 1
+ Identities = 29/34 (85%)
+ Gaps = 0/34 (0%)
+
+> NR_048566 1
+ Identities = 32/38 (84%)
+ Gaps = 2/38 (5%)
+
+> NM_001261425 1
+ Identities = 32/38 (84%)
+ Gaps = 2/38 (5%)
+
+> NM_001261424 1
+ Identities = 32/38 (84%)
+ Gaps = 2/38 (5%)
+
+> NM_001171630 1
+ Identities = 35/43 (81%)
+ Gaps = 1/43 (2%)
+
+> NM_001171629 1
+ Identities = 35/43 (81%)
+ Gaps = 1/43 (2%)
+
+> NM_001171628 1
+ Identities = 35/43 (81%)
+ Gaps = 1/43 (2%)
+
+> NM_001171627 1
+ Identities = 35/43 (81%)
+ Gaps = 1/43 (2%)
+
+> NM_001171626 1
+ Identities = 35/43 (81%)
+ Gaps = 1/43 (2%)
+
+> NM_001171625 1
+ Identities = 35/43 (81%)
+ Gaps = 1/43 (2%)
+
+> NM_001171624 1
+ Identities = 35/43 (81%)
+ Gaps = 1/43 (2%)
+
+> NM_001171623 1
+ Identities = 35/43 (81%)
+ Gaps = 1/43 (2%)
+
+> NM_001171622 1
+ Identities = 35/43 (81%)
+ Gaps = 1/43 (2%)
+
+> NM_001033756 2
+ Identities = 35/43 (81%)
+ Gaps = 1/43 (2%)
+
+> NM_001025370 2
+ Identities = 35/43 (81%)
+ Gaps = 1/43 (2%)
+
+> NM_001025369 2
+ Identities = 35/43 (81%)
+ Gaps = 1/43 (2%)
+
+> NM_001025368 2
+ Identities = 35/43 (81%)
+ Gaps = 1/43 (2%)
+
+> NM_001025367 2
+ Identities = 35/43 (81%)
+ Gaps = 1/43 (2%)
+
+> NM_003376 5
+ Identities = 35/43 (81%)
+ Gaps = 1/43 (2%)
+
+> NM_001025366 2
+ Identities = 35/43 (81%)
+ Gaps = 1/43 (2%)
+
+> NM_152616 4
+ Identities = 24/26 (92%)
+ Gaps = 0/26 (0%)
+
+> NR_002726 2
+ Identities = 30/36 (83%)
+ Gaps = 0/36 (0%)
+
+> NM_001312688 1
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+> NM_014917 3
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+> NM_001113228 2
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+> NM_001113226 2
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+> NM_002900 2
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+> NM_006180 4
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+> NM_002594 4
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+> NM_001201529 2
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+> NM_022070 4
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+> NM_012092 3
+ Identities = 26/30 (87%)
+ Gaps = 0/30 (0%)
+
+> NM_001018064 2
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+> NM_001030007 1
+ Identities = 29/35 (83%)
+ Gaps = 0/35 (0%)
+
+> NM_001128 5
+ Identities = 29/35 (83%)
+ Gaps = 0/35 (0%)
+
+> NM_001025580 1
+ Identities = 31/38 (82%)
+ Gaps = 0/38 (0%)
+
+> NM_015365 2
+ Identities = 31/38 (82%)
+ Gaps = 0/38 (0%)
+
+> NM_019857 4
+ Identities = 22/23 (96%)
+ Gaps = 0/23 (0%)
+
+> NM_175859 2
+ Identities = 22/23 (96%)
+ Gaps = 0/23 (0%)
+
+> NM_001144002 1
+ Identities = 22/23 (96%)
+ Gaps = 0/23 (0%)
+
+> NM_001003406 1
+ Identities = 26/30 (87%)
+ Gaps = 0/30 (0%)
+
+> NM_021096 3
+ Identities = 26/30 (87%)
+ Gaps = 0/30 (0%)
+
+> NM_017656 3
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+> NM_001130032 1
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+> NM_001130031 1
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+> NR_121564 1
+ Identities = 30/36 (83%)
+ Gaps = 4/36 (11%)
+
+> NR_036693 2
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+> NM_001288589 1
+ Identities = 28/32 (88%)
+ Gaps = 1/32 (3%)
+
+> NM_003760 4
+ Identities = 26/30 (87%)
+ Gaps = 0/30 (0%)
+
+> NM_001197319 2
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+> NM_001198802 1
+ Identities = 26/30 (87%)
+ Gaps = 0/30 (0%)
+
+> NM_001198801 1
+ Identities = 26/30 (87%)
+ Gaps = 0/30 (0%)
+
+> NM_001002844 2
+ Identities = 28/32 (88%)
+ Gaps = 1/32 (3%)
+
+> NM_001197318 2
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+> NM_001197317 2
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+> NM_001004419 4
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+> NM_013269 5
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+> NM_001300885 1
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+> NM_001171689 1
+ Identities = 31/38 (82%)
+ Gaps = 0/38 (0%)
+
+> NM_001201528 1
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+> NR_110077 1
+ Identities = 31/38 (82%)
+ Gaps = 0/38 (0%)
+
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_110076 1
+ Identities = 31/38 (82%)
+ Gaps = 0/38 (0%)
+
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001271592 1
+ Identities = 22/24 (92%)
+ Gaps = 0/24 (0%)
+
+> NM_001184772 2
+ Identities = 25/29 (86%)
+ Gaps = 0/29 (0%)
+
+> NR_028463 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_028466 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_028467 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_028454 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_028460 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_028459 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_028455 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_028461 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_028456 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_028468 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_031765 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_028470 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_028453 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_028462 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_028458 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_028465 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_028464 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_028469 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_028457 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001164779 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001164781 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001164774 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_030660 4
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001127697 2
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001164782 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001164776 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001164780 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001164777 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_004993 5
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001164778 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001127696 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_021946 4
+ Identities = 25/29 (86%)
+ Gaps = 0/29 (0%)
+
+> NM_001308191 1
+ Identities = 25/29 (86%)
+ Gaps = 0/29 (0%)
+
+> NM_001308189 1
+ Identities = 25/29 (86%)
+ Gaps = 0/29 (0%)
+
+> NM_001308192 1
+ Identities = 25/29 (86%)
+ Gaps = 0/29 (0%)
+
+> NM_001308193 1
+ Identities = 25/29 (86%)
+ Gaps = 0/29 (0%)
+
+> NM_030627 3
+ Identities = 25/29 (86%)
+ Gaps = 0/29 (0%)
+
+> NM_001042412 1
+ Identities = 26/28 (93%)
+ Gaps = 2/28 (7%)
+
+> NM_001042355 1
+ Identities = 26/28 (93%)
+ Gaps = 2/28 (7%)
+
+> NM_015247 2
+ Identities = 26/28 (93%)
+ Gaps = 2/28 (7%)
+
+> NM_024577 3
+ Identities = 25/29 (86%)
+ Gaps = 0/29 (0%)
+
+> NM_001161664 1
+ Identities = 30/37 (81%)
+ Gaps = 0/37 (0%)
+
+> NM_001010892 2
+ Identities = 30/37 (81%)
+ Gaps = 0/37 (0%)
+
+> NM_001160243 1
+ Identities = 22/24 (92%)
+ Gaps = 0/24 (0%)
+
+> NM_001267594 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_025208 4
+ Identities = 19/19 (100%)
+ Gaps = 0/19 (0%)
+
+> NM_033135 3
+ Identities = 19/19 (100%)
+ Gaps = 0/19 (0%)
+
+> NM_001256361 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001256360 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001256359 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001190965 2
+ Identities = 28/34 (82%)
+ Gaps = 0/34 (0%)
+
+> NM_001190964 2
+ Identities = 28/34 (82%)
+ Gaps = 0/34 (0%)
+
+> NM_197968 3
+ Identities = 28/34 (82%)
+ Gaps = 0/34 (0%)
+
+> NM_003453 4
+ Identities = 28/34 (82%)
+ Gaps = 0/34 (0%)
+
+> NM_001142307 1
+ Identities = 30/36 (83%)
+ Gaps = 2/36 (6%)
+
+> NM_005316 3
+ Identities = 30/36 (83%)
+ Gaps = 2/36 (6%)
+
+> NM_018656 2
+ Identities = 25/28 (89%)
+ Gaps = 2/28 (7%)
+
+> NM_001267595 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001201583 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001012428 2
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_080873 2
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001130864 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_201279 1
+ Identities = 19/19 (100%)
+ Gaps = 0/19 (0%)
+
+> NM_201266 1
+ Identities = 19/19 (100%)
+ Gaps = 0/19 (0%)
+
+> NM_003872 2
+ Identities = 19/19 (100%)
+ Gaps = 0/19 (0%)
+
+> NM_198396 2
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_173470 1
+ Identities = 30/36 (83%)
+ Gaps = 1/36 (3%)
+
+> NM_003659 3
+ Identities = 28/34 (82%)
+ Gaps = 0/34 (0%)
+
+> NM_001256469 1
+ Identities = 22/24 (92%)
+ Gaps = 0/24 (0%)
+
+> NM_001256468 1
+ Identities = 22/24 (92%)
+ Gaps = 0/24 (0%)
+
+> NM_012330 3
+ Identities = 22/24 (92%)
+ Gaps = 0/24 (0%)
+
+> NM_001145079 1
+ Identities = 30/36 (83%)
+ Gaps = 1/36 (3%)
+
+> NM_001256334 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001256333 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001256332 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001256331 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001256330 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001256329 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_014989 5
+ Identities = 27/31 (87%)
+ Gaps = 1/31 (3%)
+
+> NM_001256328 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001256327 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001256326 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001256325 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001256324 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_002449 4
+ Identities = 26/29 (90%)
+ Gaps = 1/29 (3%)
+
+> NM_198377 2
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_198388 2
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_198387 2
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_198386 2
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_198385 2
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_198384 2
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_198383 2
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_125423 1
+ Identities = 22/24 (92%)
+ Gaps = 0/24 (0%)
+
+> NR_130153 1
+ Identities = 22/24 (92%)
+ Gaps = 0/24 (0%)
+
+> NR_027679 1
+ Identities = 22/24 (92%)
+ Gaps = 0/24 (0%)
+
+> NR_051992 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_051991 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_046058 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_046057 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_046056 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_046055 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_046054 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001199290 1
+ Identities = 31/39 (79%)
+ Gaps = 0/39 (0%)
+
+> NM_144711 5
+ Identities = 31/39 (79%)
+ Gaps = 0/39 (0%)
+
+> NM_001199770 1
+ Identities = 22/24 (92%)
+ Gaps = 0/24 (0%)
+
+> NM_198382 2
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_198380 2
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_198379 2
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_198378 2
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_198376 2
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_018896 4
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_014686 3
+ Identities = 25/29 (86%)
+ Gaps = 0/29 (0%)
+
+> NM_152467 3
+ Identities = 19/19 (100%)
+ Gaps = 0/19 (0%)
+
+> NM_001199881 1
+ Identities = 29/35 (83%)
+ Gaps = 4/35 (11%)
+
+> NM_001199880 1
+ Identities = 29/35 (83%)
+ Gaps = 4/35 (11%)
+
+> NM_004430 2
+ Identities = 29/35 (83%)
+ Gaps = 4/35 (11%)
+
+> NM_014562 3
+ Identities = 22/24 (92%)
+ Gaps = 0/24 (0%)
+
+> NM_001168411 1
+ Identities = 27/31 (87%)
+ Gaps = 1/31 (3%)
+
+> NM_001168410 1
+ Identities = 27/31 (87%)
+ Gaps = 1/31 (3%)
+
+> NM_001168409 1
+ Identities = 27/31 (87%)
+ Gaps = 1/31 (3%)
+
+> NM_001168407 1
+ Identities = 27/31 (87%)
+ Gaps = 1/31 (3%)
+
+> NM_001168408 1
+ Identities = 27/31 (87%)
+ Gaps = 1/31 (3%)
+
+> NR_046456 1
+ Identities = 28/34 (82%)
+ Gaps = 0/34 (0%)
+
+> NM_018847 2
+ Identities = 22/24 (92%)
+ Gaps = 0/24 (0%)
+
+> NR_039988 1
+ Identities = 22/24 (92%)
+ Gaps = 0/24 (0%)
+
+> NM_001101417 3
+ Identities = 27/29 (93%)
+ Gaps = 0/29 (0%)
+
+ Identities = 26/30 (87%)
+ Gaps = 0/30 (0%)
+
+ Identities = 29/34 (85%)
+ Gaps = 2/34 (6%)
+
+ Identities = 25/29 (86%)
+ Gaps = 0/29 (0%)
+
+ Identities = 31/38 (82%)
+ Gaps = 2/38 (5%)
+
+> NM_001101426 3
+ Identities = 27/29 (93%)
+ Gaps = 0/29 (0%)
+
+ Identities = 26/30 (87%)
+ Gaps = 0/30 (0%)
+
+ Identities = 29/34 (85%)
+ Gaps = 2/34 (6%)
+
+ Identities = 25/29 (86%)
+ Gaps = 0/29 (0%)
+
+ Identities = 31/38 (82%)
+ Gaps = 2/38 (5%)
+
+> NM_080817 4
+ Identities = 33/39 (85%)
+ Gaps = 0/39 (0%)
+
+ Identities = 30/36 (83%)
+ Gaps = 0/36 (0%)
+
+> NM_001242503 1
+ Identities = 36/44 (82%)
+ Gaps = 0/44 (0%)
+
+> NM_001242502 1
+ Identities = 36/44 (82%)
+ Gaps = 0/44 (0%)
+
+> NM_013989 4
+ Identities = 36/44 (82%)
+ Gaps = 0/44 (0%)
+
+> NM_001007023 3
+ Identities = 36/44 (82%)
+ Gaps = 0/44 (0%)
+
+> NM_000793 5
+ Identities = 36/44 (82%)
+ Gaps = 0/44 (0%)
+
+> NM_001080419 2
+ Identities = 31/36 (86%)
+ Gaps = 0/36 (0%)
+
+ Identities = 29/35 (83%)
+ Gaps = 0/35 (0%)
+
+ Identities = 29/35 (83%)
+ Gaps = 0/35 (0%)
+
+> NM_001282807 1
+ Identities = 26/28 (93%)
+ Gaps = 0/28 (0%)
+
+> NM_001282806 1
+ Identities = 26/28 (93%)
+ Gaps = 0/28 (0%)
+
+> NM_022826 3
+ Identities = 26/28 (93%)
+ Gaps = 0/28 (0%)
+
+> NM_001282805 1
+ Identities = 26/28 (93%)
+ Gaps = 0/28 (0%)
+
+> NR_037771 1
+ Identities = 31/36 (86%)
+ Gaps = 0/36 (0%)
+
+> NM_003677 4
+ Identities = 28/31 (90%)
+ Gaps = 0/31 (0%)
+
+ Identities = 30/35 (86%)
+ Gaps = 0/35 (0%)
+
+ Identities = 32/39 (82%)
+ Gaps = 2/39 (5%)
+
+> NM_007190 3
+ Identities = 31/36 (86%)
+ Gaps = 0/36 (0%)
+
+> NM_001018088 2
+ Identities = 29/32 (91%)
+ Gaps = 1/32 (3%)
+
+> NM_018080 3
+ Identities = 29/32 (91%)
+ Gaps = 1/32 (3%)
+
+> NM_207371 3
+ Identities = 22/22 (100%)
+ Gaps = 0/22 (0%)
+
+> NM_001242466 1
+ Identities = 30/35 (86%)
+ Gaps = 0/35 (0%)
+
+> NM_181504 3
+ Identities = 30/35 (86%)
+ Gaps = 0/35 (0%)
+
+> NM_181524 1
+ Identities = 30/35 (86%)
+ Gaps = 0/35 (0%)
+
+> NM_181523 2
+ Identities = 30/35 (86%)
+ Gaps = 0/35 (0%)
+
+> NR_104109 1
+ Identities = 27/31 (87%)
+ Gaps = 0/31 (0%)
+
+> NM_001277176 1
+ Identities = 29/34 (85%)
+ Gaps = 0/34 (0%)
+
+> NM_182758 3
+ Identities = 29/34 (85%)
+ Gaps = 0/34 (0%)
+
+> NM_001287044 1
+ Identities = 35/43 (81%)
+ Gaps = 1/43 (2%)
+
+> NM_153711 2
+ Identities = 27/30 (90%)
+ Gaps = 2/30 (7%)
+
+> NM_001282224 1
+ Identities = 27/31 (87%)
+ Gaps = 0/31 (0%)
+
+> NM_000052 6
+ Identities = 27/31 (87%)
+ Gaps = 0/31 (0%)
+
+> NM_207359 2
+ Identities = 27/31 (87%)
+ Gaps = 0/31 (0%)
+
+ Identities = 27/31 (87%)
+ Gaps = 0/31 (0%)
+
+> NM_001199563 1
+ Identities = 26/29 (90%)
+ Gaps = 0/29 (0%)
+
+ Identities = 31/39 (79%)
+ Gaps = 0/39 (0%)
+
+> NM_007073 4
+ Identities = 26/29 (90%)
+ Gaps = 0/29 (0%)
+
+ Identities = 31/39 (79%)
+ Gaps = 0/39 (0%)
+
+> NM_147147 3
+ Identities = 26/29 (90%)
+ Gaps = 0/29 (0%)
+
+ Identities = 31/39 (79%)
+ Gaps = 0/39 (0%)
+
+> NM_182920 1
+ Identities = 27/31 (87%)
+ Gaps = 0/31 (0%)
+
+> NM_001204385 1
+ Identities = 35/43 (81%)
+ Gaps = 1/43 (2%)
+
+> NM_001204384 1
+ Identities = 35/43 (81%)
+ Gaps = 1/43 (2%)
+
+> NR_038445 1
+ Identities = 30/35 (86%)
+ Gaps = 2/35 (6%)
+
+> NR_110323 1
+ Identities = 24/26 (92%)
+ Gaps = 0/26 (0%)
+
+> NR_102336 1
+ Identities = 29/34 (85%)
+ Gaps = 0/34 (0%)
+
+> NR_102335 1
+ Identities = 29/34 (85%)
+ Gaps = 0/34 (0%)
+
+> NR_102334 1
+ Identities = 29/34 (85%)
+ Gaps = 0/34 (0%)
+
+> NR_048566 1
+ Identities = 32/38 (84%)
+ Gaps = 2/38 (5%)
+
+> NM_001261425 1
+ Identities = 32/38 (84%)
+ Gaps = 2/38 (5%)
+
+> NM_001261424 1
+ Identities = 32/38 (84%)
+ Gaps = 2/38 (5%)
+
+> NM_001171630 1
+ Identities = 35/43 (81%)
+ Gaps = 1/43 (2%)
+
+> NM_001171629 1
+ Identities = 35/43 (81%)
+ Gaps = 1/43 (2%)
+
+> NM_001171628 1
+ Identities = 35/43 (81%)
+ Gaps = 1/43 (2%)
+
+> NM_001171627 1
+ Identities = 35/43 (81%)
+ Gaps = 1/43 (2%)
+
+> NM_001171626 1
+ Identities = 35/43 (81%)
+ Gaps = 1/43 (2%)
+
+> NM_001171625 1
+ Identities = 35/43 (81%)
+ Gaps = 1/43 (2%)
+
+> NM_001171624 1
+ Identities = 35/43 (81%)
+ Gaps = 1/43 (2%)
+
+> NM_001171623 1
+ Identities = 35/43 (81%)
+ Gaps = 1/43 (2%)
+
+> NM_001171622 1
+ Identities = 35/43 (81%)
+ Gaps = 1/43 (2%)
+
+> NM_001033756 2
+ Identities = 35/43 (81%)
+ Gaps = 1/43 (2%)
+
+> NM_001025370 2
+ Identities = 35/43 (81%)
+ Gaps = 1/43 (2%)
+
+> NM_001025369 2
+ Identities = 35/43 (81%)
+ Gaps = 1/43 (2%)
+
+> NM_001025368 2
+ Identities = 35/43 (81%)
+ Gaps = 1/43 (2%)
+
+> NM_001025367 2
+ Identities = 35/43 (81%)
+ Gaps = 1/43 (2%)
+
+> NM_003376 5
+ Identities = 35/43 (81%)
+ Gaps = 1/43 (2%)
+
+> NM_001025366 2
+ Identities = 35/43 (81%)
+ Gaps = 1/43 (2%)
+
+> NM_152616 4
+ Identities = 24/26 (92%)
+ Gaps = 0/26 (0%)
+
+> NR_002726 2
+ Identities = 30/36 (83%)
+ Gaps = 0/36 (0%)
+
+> NM_001312688 1
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+> NM_014917 3
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+> NM_001113228 2
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+> NM_001113226 2
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+> NM_002900 2
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+> NM_006180 4
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+> NM_002594 4
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+> NM_001201529 2
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+> NM_012092 3
+ Identities = 26/30 (87%)
+ Gaps = 0/30 (0%)
+
+> NM_001018064 2
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+> NM_001030007 1
+ Identities = 29/35 (83%)
+ Gaps = 0/35 (0%)
+
+> NM_001128 5
+ Identities = 29/35 (83%)
+ Gaps = 0/35 (0%)
+
+> NM_001025580 1
+ Identities = 31/38 (82%)
+ Gaps = 0/38 (0%)
+
+> NM_015365 2
+ Identities = 31/38 (82%)
+ Gaps = 0/38 (0%)
+
+> NM_001003406 1
+ Identities = 26/30 (87%)
+ Gaps = 0/30 (0%)
+
+> NM_021096 3
+ Identities = 26/30 (87%)
+ Gaps = 0/30 (0%)
+
+> NM_017656 3
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+> NM_001130032 1
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+> NM_001130031 1
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+> NR_121564 1
+ Identities = 30/36 (83%)
+ Gaps = 4/36 (11%)
+
+> NR_036693 2
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+> NM_001288589 1
+ Identities = 28/32 (88%)
+ Gaps = 1/32 (3%)
+
+> NM_003760 4
+ Identities = 26/30 (87%)
+ Gaps = 0/30 (0%)
+
+> NM_001197319 2
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+> NM_001198802 1
+ Identities = 26/30 (87%)
+ Gaps = 0/30 (0%)
+
+> NM_001198801 1
+ Identities = 26/30 (87%)
+ Gaps = 0/30 (0%)
+
+> NM_001002844 2
+ Identities = 28/32 (88%)
+ Gaps = 1/32 (3%)
+
+> NM_001197318 2
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+> NM_001197317 2
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+> NM_001004419 4
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+> NM_013269 5
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+> NM_001300885 1
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+> NM_001171689 1
+ Identities = 31/38 (82%)
+ Gaps = 0/38 (0%)
+
+> NM_001201528 1
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+> NR_110077 1
+ Identities = 31/38 (82%)
+ Gaps = 0/38 (0%)
+
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_110076 1
+ Identities = 31/38 (82%)
+ Gaps = 0/38 (0%)
+
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001271592 1
+ Identities = 22/24 (92%)
+ Gaps = 0/24 (0%)
+
+> NM_001184772 2
+ Identities = 25/29 (86%)
+ Gaps = 0/29 (0%)
+
+> NR_028463 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_028466 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_028467 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_028454 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_028460 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_028459 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_028455 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_028461 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_028456 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_028468 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_031765 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_028470 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_028453 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_028462 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_028458 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_028465 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_028464 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_028469 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_028457 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001164779 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001164781 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001164774 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_030660 4
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001127697 2
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001164782 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001164776 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001164780 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001164777 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_004993 5
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001164778 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001127696 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_021946 4
+ Identities = 25/29 (86%)
+ Gaps = 0/29 (0%)
+
+> NM_001042453 1
+ Identities = 19/19 (100%)
+ Gaps = 0/19 (0%)
+
+> NM_001042452 1
+ Identities = 19/19 (100%)
+ Gaps = 0/19 (0%)
+
+> NM_016542 3
+ Identities = 19/19 (100%)
+ Gaps = 0/19 (0%)
+
+> NM_024577 3
+ Identities = 25/29 (86%)
+ Gaps = 0/29 (0%)
+
+> NM_001161664 1
+ Identities = 30/37 (81%)
+ Gaps = 0/37 (0%)
+
+> NM_001010892 2
+ Identities = 30/37 (81%)
+ Gaps = 0/37 (0%)
+
+> NM_001160243 1
+ Identities = 22/24 (92%)
+ Gaps = 0/24 (0%)
+
+> NM_001267594 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001256361 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001256360 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001256359 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001190965 2
+ Identities = 28/34 (82%)
+ Gaps = 0/34 (0%)
+
+> NM_001190964 2
+ Identities = 28/34 (82%)
+ Gaps = 0/34 (0%)
+
+> NM_197968 3
+ Identities = 28/34 (82%)
+ Gaps = 0/34 (0%)
+
+> NM_003453 4
+ Identities = 28/34 (82%)
+ Gaps = 0/34 (0%)
+
+> NM_001142307 1
+ Identities = 30/36 (83%)
+ Gaps = 2/36 (6%)
+
+> NM_005316 3
+ Identities = 30/36 (83%)
+ Gaps = 2/36 (6%)
+
+> NM_018656 2
+ Identities = 25/28 (89%)
+ Gaps = 2/28 (7%)
+
+> NM_001135958 1
+ Identities = 24/26 (92%)
+ Gaps = 1/26 (4%)
+
+> NM_001135956 1
+ Identities = 24/26 (92%)
+ Gaps = 1/26 (4%)
+
+> NM_001135955 1
+ Identities = 24/26 (92%)
+ Gaps = 1/26 (4%)
+
+> NM_003306 1
+ Identities = 24/26 (92%)
+ Gaps = 1/26 (4%)
+
+> NM_016179 2
+ Identities = 24/26 (92%)
+ Gaps = 1/26 (4%)
+
+> NM_001267595 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001201583 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001012428 2
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_080873 2
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001130864 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_201279 1
+ Identities = 19/19 (100%)
+ Gaps = 0/19 (0%)
+
+> NM_201266 1
+ Identities = 19/19 (100%)
+ Gaps = 0/19 (0%)
+
+> NM_003872 2
+ Identities = 19/19 (100%)
+ Gaps = 0/19 (0%)
+
+> NM_198396 2
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_003659 3
+ Identities = 28/34 (82%)
+ Gaps = 0/34 (0%)
+
+> NM_001256334 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001256333 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001256332 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001256331 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001256330 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001256329 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001256328 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001256327 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001256326 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001256325 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001256324 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_002449 4
+ Identities = 26/29 (90%)
+ Gaps = 1/29 (3%)
+
+> NM_198377 2
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_198388 2
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_198387 2
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_198386 2
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_198385 2
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_198384 2
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_198383 2
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_125423 1
+ Identities = 22/24 (92%)
+ Gaps = 0/24 (0%)
+
+> NR_130153 1
+ Identities = 22/24 (92%)
+ Gaps = 0/24 (0%)
+
+> NR_027679 1
+ Identities = 22/24 (92%)
+ Gaps = 0/24 (0%)
+
+> NR_051992 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_051991 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_046058 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_046057 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_046056 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_046055 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NR_046054 1
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_001199290 1
+ Identities = 31/39 (79%)
+ Gaps = 0/39 (0%)
+
+> NM_144711 5
+ Identities = 31/39 (79%)
+ Gaps = 0/39 (0%)
+
+> NM_001199770 1
+ Identities = 22/24 (92%)
+ Gaps = 0/24 (0%)
+
+> NM_198382 2
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_198380 2
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_198379 2
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_198378 2
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_198376 2
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_018896 4
+ Identities = 27/32 (84%)
+ Gaps = 0/32 (0%)
+
+> NM_015139 2
+ Identities = 19/19 (100%)
+ Gaps = 0/19 (0%)
+
+> NM_014686 3
+ Identities = 25/29 (86%)
+ Gaps = 0/29 (0%)
+
+> NM_152467 3
+ Identities = 19/19 (100%)
+ Gaps = 0/19 (0%)
+
+> NM_001199881 1
+ Identities = 29/35 (83%)
+ Gaps = 4/35 (11%)
+
+> NM_001199880 1
+ Identities = 29/35 (83%)
+ Gaps = 4/35 (11%)
+
+> NM_004430 2
+ Identities = 29/35 (83%)
+ Gaps = 4/35 (11%)
+
+> NM_014562 3
+ Identities = 22/24 (92%)
+ Gaps = 0/24 (0%)
+
+> NM_001135957 1
+ Identities = 24/26 (92%)
+ Gaps = 1/26 (4%)
+
+> NR_046456 1
+ Identities = 28/34 (82%)
+ Gaps = 0/34 (0%)
+
+> NM_018847 2
+ Identities = 22/24 (92%)
+ Gaps = 0/24 (0%)
+
+> NM_022070 4
+ Identities = 25/28 (89%)
+ Gaps = 0/28 (0%)
+
+> NM_001042453 1
+ Identities = 19/19 (100%)
+ Gaps = 0/19 (0%)
+
+> NM_001042452 1
+ Identities = 19/19 (100%)
+ Gaps = 0/19 (0%)
+
+> NM_016542 3
+ Identities = 19/19 (100%)
+ Gaps = 0/19 (0%)
+
+> NM_001135958 1
+ Identities = 24/26 (92%)
+ Gaps = 1/26 (4%)
+
+> NM_001135956 1
+ Identities = 24/26 (92%)
+ Gaps = 1/26 (4%)
+
+> NM_001135955 1
+ Identities = 24/26 (92%)
+ Gaps = 1/26 (4%)
+
+> NM_003306 1
+ Identities = 24/26 (92%)
+ Gaps = 1/26 (4%)
+
+> NM_016179 2
+ Identities = 24/26 (92%)
+ Gaps = 1/26 (4%)
+
+> NM_015139 2
+ Identities = 19/19 (100%)
+ Gaps = 0/19 (0%)
+
+> NM_001135957 1
+ Identities = 24/26 (92%)
+ Gaps = 1/26 (4%)
+
+> NR_110077 1
+ Identities = 38/47 (81%)
+ Gaps = 2/47 (4%)
+
+> NR_110076 1
+ Identities = 38/47 (81%)
+ Gaps = 2/47 (4%)
+
+> NM_001042453 1
+ Identities = 19/19 (100%)
+ Gaps = 0/19 (0%)
+
+> NM_001042452 1
+ Identities = 19/19 (100%)
+ Gaps = 0/19 (0%)
+
+> NM_016542 3
+ Identities = 19/19 (100%)
+ Gaps = 0/19 (0%)
+
+> NM_001136123 1
+ Identities = 28/32 (88%)
+ Gaps = 4/32 (13%)
+
+> NM_001135958 1
+ Identities = 24/26 (92%)
+ Gaps = 1/26 (4%)
+
+> NM_001135956 1
+ Identities = 24/26 (92%)
+ Gaps = 1/26 (4%)
+
+> NM_001135955 1
+ Identities = 24/26 (92%)
+ Gaps = 1/26 (4%)
+
+> NM_003306 1
+ Identities = 24/26 (92%)
+ Gaps = 1/26 (4%)
+
+> NM_016179 2
+ Identities = 24/26 (92%)
+ Gaps = 1/26 (4%)
+
+> NM_018121 3
+ Identities = 28/32 (88%)
+ Gaps = 4/32 (13%)
+
+> NM_015139 2
+ Identities = 19/19 (100%)
+ Gaps = 0/19 (0%)
+
+> NM_015938 3
+ Identities = 28/34 (82%)
+ Gaps = 0/34 (0%)
+
+> NM_001135957 1
+ Identities = 24/26 (92%)
+ Gaps = 1/26 (4%)
+
+> NM_001272001 1
+ Identities = 948/1412 (67%)
+ Gaps = 2/1412 (0%)
+
+> NM_001271999 1
+ Identities = 948/1412 (67%)
+ Gaps = 2/1412 (0%)
+
+> NM_001272000 1
+ Identities = 950/1418 (67%)
+ Gaps = 8/1418 (1%)
+
+> NM_033407 3
+ Identities = 950/1418 (67%)
+ Gaps = 8/1418 (1%)
+
+> NM_203447 3
+ Identities = 782/1221 (64%)
+ Gaps = 14/1221 (1%)
+
+ Identities = 30/36 (83%)
+ Gaps = 0/36 (0%)
+
+ Identities = 28/33 (85%)
+ Gaps = 0/33 (0%)
+
+> NM_001193536 1
+ Identities = 782/1221 (64%)
+ Gaps = 14/1221 (1%)
+
+ Identities = 30/36 (83%)
+ Gaps = 0/36 (0%)
+
+ Identities = 28/33 (85%)
+ Gaps = 0/33 (0%)
+
+> NM_001190458 1
+ Identities = 782/1221 (64%)
+ Gaps = 14/1221 (1%)
+
+ Identities = 30/36 (83%)
+ Gaps = 0/36 (0%)
+
+ Identities = 28/33 (85%)
+ Gaps = 0/33 (0%)
+
+> NM_020812 3
+ Identities = 706/1100 (64%)
+ Gaps = 27/1100 (2%)
+
+> NM_001288961 1
+ Identities = 37/44 (84%)
+ Gaps = 1/44 (2%)
+
+> NM_144658 3
+ Identities = 47/62 (76%)
+ Gaps = 0/62 (0%)
+
+> NM_001290263 1
+ Identities = 87/128 (68%)
+ Gaps = 6/128 (5%)
+
+> NM_014689 2
+ Identities = 87/128 (68%)
+ Gaps = 6/128 (5%)
+
+> NM_001302552 1
+ Identities = 27/30 (90%)
+ Gaps = 0/30 (0%)
+
+> NM_004660 4
+ Identities = 27/30 (90%)
+ Gaps = 0/30 (0%)
+
+> NM_001122665 2
+ Identities = 27/30 (90%)
+ Gaps = 0/30 (0%)
+
+> NM_207440 2
+ Identities = 21/21 (100%)
+ Gaps = 0/21 (0%)
+
+> NR_024532 1
+ Identities = 23/25 (92%)
+ Gaps = 0/25 (0%)
+
+> NM_033087 3
+ Identities = 23/25 (92%)
+ Gaps = 0/25 (0%)
+
+> NM_001142551 1
+ Identities = 22/23 (96%)
+ Gaps = 0/23 (0%)
+
+> NM_001142550 1
+ Identities = 22/23 (96%)
+ Gaps = 0/23 (0%)
+
+> NM_014969 5
+ Identities = 22/23 (96%)
+ Gaps = 0/23 (0%)
+
+> NM_001271733 1
+ Identities = 31/37 (84%)
+ Gaps = 1/37 (3%)
+
+> NM_015659 2
+ Identities = 31/38 (82%)
+ Gaps = 0/38 (0%)
+
+
